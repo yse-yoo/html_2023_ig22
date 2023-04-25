@@ -6,3 +6,8 @@ body {
 h1 {
     color: rgb(128, 32, 32);
 }
+
+.banner {
+    color: white;
+    background: black;
+}
