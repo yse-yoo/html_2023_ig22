@@ -17,3 +17,8 @@ h1 {
 #latest-posts {
     color: rgb(22, 117, 180);
 }
+
+/* headerタグのliだけ指定 */
+header li {
+    list-style: none;
+}
