@@ -22,6 +22,13 @@ h2 {
     padding: 10px 15px;
 }
 
+footer {
+    padding: 20px;
+    background: #355f84;
+    color: #ffffff;
+    text-align: right;
+}
+
 /* class=banner */
 .banner {
     color: white;
