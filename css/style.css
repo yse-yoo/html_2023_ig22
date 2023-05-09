@@ -3,13 +3,15 @@ body {
     background: #fcfcfc;
     /* font-family: 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', 'メイリオ', 'Meiryo', "Helvetica Neue", sans-serif; */
     font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+    line-height: 2.0rem;
 }
 
 h1 {
     color: rgb(33, 87, 135);
     /* 16px x 1.5 = 24px */
-    font-size: 1.5em;
+    font-size: 2.5em;
     /* font-size: 24px; */
+    text-align: center;
 }
 
 h2 {
