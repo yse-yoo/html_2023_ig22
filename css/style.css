@@ -45,6 +45,11 @@ header li {
     font-size: 0.7rem;
 }
 
-#latest-posts li {
+#latest-posts ul {
     list-style: none;
+    padding: 0;
+}
+
+#latest-posts {
+    margin: 20px 0;
 }
