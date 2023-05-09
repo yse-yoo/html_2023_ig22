@@ -13,8 +13,11 @@ h1 {
 }
 
 h2 {
-    color: rgb(33, 87, 135);
+    color: #355f84;
     font-size: 1.2em;
+    border: 1px solid #355f84;
+    border-radius: 10px;
+    padding: 10px 15px;
 }
 
 /* class=banner */
