@@ -32,3 +32,10 @@ h2 {
 header li {
     list-style: none;
 }
+
+.date-label {
+    /* background-color: #c63131; */
+    background: #c63131;
+    color: #ffffff;
+    font-size: 0.5rem;
+}
