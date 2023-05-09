@@ -39,3 +39,12 @@ header li {
     color: #ffffff;
     font-size: 0.5rem;
 }
+
+.new {
+    color: #c63131;
+    font-size: 0.7rem;
+}
+
+#latest-posts li {
+    list-style: none;
+}
