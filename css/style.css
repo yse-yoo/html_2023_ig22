@@ -23,6 +23,11 @@ h2 {
     padding: 10px 15px;
 }
 
+h2::before {
+    content: "\01f414";
+    margin-right: 10px;
+}
+
 footer {
     padding: 10px 15px;
     background: #355f84;
