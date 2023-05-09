@@ -40,6 +40,11 @@ a {
     color: #0084ff;
 }
 
+/* aリンクにマウスオーバーしたとき */
+a:hover {
+    color: red;
+}
+
 /* class=banner */
 .banner {
     color: white;
