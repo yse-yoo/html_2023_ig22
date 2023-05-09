@@ -17,16 +17,22 @@ h1 {
 h2 {
     color: #355f84;
     font-size: 1.2em;
-    border: 1px solid #355f84;
-    border-radius: 10px;
+    /* border: 1px solid #355f84; */
+    /* border-radius: 10px; */
+    border-bottom: 1px solid #355f84;
     padding: 10px 15px;
 }
 
 footer {
-    padding: 20px;
+    padding: 10px 15px;
     background: #355f84;
     color: #ffffff;
     text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: #0084ff;
 }
 
 /* class=banner */
@@ -47,7 +53,7 @@ header li {
 
 .date-label {
     /* background-color: #c63131; */
-    background: #c63131;
+    background: #457aab;
     color: #ffffff;
     font-size: 0.5rem;
     padding: 5px 10px;
