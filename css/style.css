@@ -84,3 +84,16 @@ header li {
 #latest-posts {
     margin: 20px 0;
 }
+
+.background {
+    width: 100%;
+    height: 0;
+    background-size: cover;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    padding-top: 30%;
+}
+
+#top .background {
+    background-image: url(../images/tokyo_station.jpg);
+}
