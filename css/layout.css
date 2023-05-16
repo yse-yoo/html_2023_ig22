@@ -29,3 +29,7 @@
     float: left;
     padding: 20px;
 }
+
+#float-menu nav {
+    overflow: hidden;
+}
