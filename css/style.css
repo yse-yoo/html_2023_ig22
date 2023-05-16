@@ -58,8 +58,14 @@ a:hover {
 }
 
 /* headerタグのliだけ指定 */
+header ul {
+    display: flex;
+    padding: 0;
+}
+
 header li {
     list-style: none;
+    padding: 20px;
 }
 
 .date-label {
