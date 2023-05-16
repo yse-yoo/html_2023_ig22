@@ -25,7 +25,8 @@ h2 {
 }
 
 h2::before {
-    content: "\01f414";
+    /* content: "\01f414"; */
+    content: "-";
     margin-right: 10px;
 }
 
