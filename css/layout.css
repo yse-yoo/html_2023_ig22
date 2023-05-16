@@ -19,3 +19,13 @@
     height: 100px;
     float: left;
 }
+
+#float-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+#float-menu li {
+    float: left;
+    padding: 20px;
+}
