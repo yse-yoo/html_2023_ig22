@@ -13,3 +13,9 @@
 .color4 {
     background-color: rgb(72, 144, 177);
 }
+
+.box {
+    width: 200px;
+    height: 100px;
+    float: left;
+}
