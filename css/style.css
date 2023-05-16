@@ -95,3 +95,9 @@ header li {
 #top .background {
     background-image: url(../images/tokyo_station.jpg);
 }
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
