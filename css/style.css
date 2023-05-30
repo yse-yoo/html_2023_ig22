@@ -3,7 +3,7 @@ body {
     background: #fcfcfc;
     /* font-family: 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', 'メイリオ', 'Meiryo', "Helvetica Neue", sans-serif; */
     font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
-    line-height: 2.0rem;
+    line-height: 1.5rem;
     margin: 0;
 }
 
@@ -69,6 +69,7 @@ header li {
     padding: 20px;
 }
 
+/* class=data-label */
 .date-label {
     /* background-color: #c63131; */
     background: #457aab;
